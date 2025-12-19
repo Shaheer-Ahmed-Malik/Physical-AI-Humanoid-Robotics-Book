@@ -35,7 +35,7 @@ This project will create an accessible yet professional online book about Physic
 - **Tone and Readability**: Flesch-Kincaid Grade 9–11.
 - **Plagiarism**: Zero tolerance.
 - **Simplification**: Complex topics must be simplified.
-- **Word Count**: 25,000–40,000 words.
+- **Word Count**: 80,000–90,000 words.
 - **Structure**: 10–14 chapters.
 - **Format**: Docusaurus MDX.
 - **Assets**: Visuals in `/static/img/`.

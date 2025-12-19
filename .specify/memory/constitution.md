@@ -39,7 +39,7 @@ Transparency and reproducibility for all factual claims.
 
 ## Constraints
 
-- **Word Count**: Total manuscript length must be between 25,000 and 40,000 words.
+- **Word Count**: Total manuscript length must be a minimum of 80,000 words.
 - **Structure**: The book will consist of 10–14 chapters, each with clearly defined learning objectives.
 - **Format**: All content must be authored in Docusaurus-compatible MDX files.
 - **Assets**: All visuals and diagrams are to be stored in the `/static/img/` directory.

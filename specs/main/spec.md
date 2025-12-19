@@ -72,7 +72,7 @@ A fully autonomous simulated humanoid that:
 - No unnecessary jargon; concepts must be simplified where possible
 
 ### 4.4. Constraints
-- Total length: 25,000–40,000 words
+- Total length: 80,000–90,000 words
 - Every chapter includes summary + learning objectives
 - Diagrams for system architecture, pipelines, and robot functions
 
